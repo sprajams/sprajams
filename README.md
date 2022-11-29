@@ -1,5 +1,5 @@
 ### Hey there, I'm Suph! 👋 
-### I'm a West Coast based FrontEnd developer. :palm_tree:
+### I'm a West Coast based Front-end developer. :palm_tree:
 
 - :bulb: I’m currently working on an e-commerce site.
 - 🌱 I’m currently learning Next.js.
