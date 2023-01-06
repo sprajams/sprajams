@@ -1,7 +1,7 @@
 ### Hey there, I'm Suph! 👋 
 ### I'm a West Coast based Front-end developer. :palm_tree:
 
-- :bulb: I’m currently working on an e-commerce site.
+- :bulb: I’m currently working on a study app!
 - 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on all things frontend and for new coworkers!
 - 💬 Chat with me about all things food related.
